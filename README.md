@@ -1,5 +1,13 @@
 # Clasificador-para-datos-tabulares-de-Alzheimer
-Primer Proyecto de la materia de 'Proyecto integrador de tecnologías emergentes' impartida por el profesor Daniel Cabrera
+Primer Proyecto de la materia de 'Proyecto integrador de tecnologías emergentes' impartida por el profesor Daniel Cabrera  
+
+Equipo #3  
+María Fernanda Mendoza A01745728  
+Carolina Obregon A01251983  
+Isabel Navarro A00823132  
+Jaime Montemayor A01176573  
+Gustavo De Los Ríos Alatorre A01410922  
+
 ## Introducción
 La enfermedad de Alzheimer consta de un trastorno neurológico progresivo que provoca el encogimiento del cerebro (atrofia), provocando también el la muerte de las neuronas en el paciente.
 
