@@ -52,6 +52,8 @@ El [OASIS Longitudinal Dataset](https://www.kaggle.com/jboysen/mri-and-alzheimer
 
 ## Descripción y entrenamiento de los modelos
 ## Resultados
+![image](https://user-images.githubusercontent.com/23626475/136715148-bff5bb2a-2298-4d28-8007-f49f67dddd0b.png)
+
 ## Páginas consultadas
 - Brosch, JR, et al. Early-onset dementia in adults. https://www.uptodate.com/contents/search. Accessed Dec. 4, 2019.
 - M. Tanveer, B. Richhariya, R.U. Khan, A.H. Rashid, P. Khanna, M. Prasad, and C.T. Lin. 2020. Machine learning techniques for the diagnosis of Alzheimer’s disease: A review. ACM Trans. Multimedia Comput. Commun. Appl. 16, 1s, Article 30 (April 2020), 28 pages. https://doi.org/https://doi.org/10.1145/3344998
