@@ -40,7 +40,7 @@ Al realizar el clone al repositorio se obtienen todos los archivos, en caso de n
 
 ## Clonado del repositorio
 ```
-https://github.com/GustavoDLRA/Clasificador-para-datos-tabulares-de-Alzheimer.git
+git clone https://github.com/GustavoDLRA/Clasificador-para-datos-tabulares-de-Alzheimer.git
 ```
 ## Base de datos
 OASIS Longitudinal Dataset
