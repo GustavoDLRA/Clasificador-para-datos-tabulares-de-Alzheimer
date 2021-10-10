@@ -5,3 +5,5 @@ Primer Proyecto de la materia de 'Proyecto integrador de tecnologías emergentes
 ## Uso del código
 ## Clonado del repositorio
 ## Descripción y entrenamiento de los modelos
+## Resultados
+## Páginas consultadas
