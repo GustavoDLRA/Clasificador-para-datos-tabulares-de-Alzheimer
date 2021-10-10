@@ -16,10 +16,6 @@ Librerias utilizadas:
 - warnings
 - lightgmb
 
-Librerias instaladas en Google Colab:
-- transformers
-- emoji
-
 Para más información consultar el archivo requirements.txt
 ## Uso del código
 ## Clonado del repositorio
