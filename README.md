@@ -34,7 +34,7 @@ Librerias utilizadas:
 - lightgmb
 
 ## Uso del código
-El archivo final del modelo: ___.ipynb
+El archivo final del modelo: Prediccion_Datos_Tabulares.ipynb
 
 Al realizar el clone al repositorio se obtienen todos los archivos, en caso de no hacerlo, verificar que se tengan todos los archivos de los datos para su correcto funcionamiento.
 
