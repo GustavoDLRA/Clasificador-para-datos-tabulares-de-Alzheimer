@@ -54,6 +54,7 @@ El [OASIS Longitudinal Dataset](https://www.kaggle.com/jboysen/mri-and-alzheimer
 Se entrenaron dos modelos de Light GBM, un modelo de regresión logística y un modelo de máquina de vectores de soporte. Todo esto con el propósito de comparar su desempeño.    
 ## Resultados
 ![image](https://user-images.githubusercontent.com/23626475/136715148-bff5bb2a-2298-4d28-8007-f49f67dddd0b.png)
+
 Matriz de confusión resultado de la SVM
 
 ## Páginas consultadas
