@@ -1,4 +1,4 @@
-# Clasificador-para-datos-tabulares-de-Alzheimer
+# Clasificador para datos tabulares de Alzheimer
 Primer Proyecto de la materia de 'Proyecto integrador de tecnologías emergentes' impartida por el profesor Daniel Cabrera  
 
 Equipo #3  
