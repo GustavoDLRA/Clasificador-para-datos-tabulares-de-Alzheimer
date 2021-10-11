@@ -51,8 +51,10 @@ OASIS existe gracias al Centro de Investigación de la Enfermedad de Alzheimer d
 El [OASIS Longitudinal Dataset](https://www.kaggle.com/jboysen/mri-and-alzheimers?select=oasis_longitudinal.csv) en particular, consiste en una colección longitudinal de 150 sujetos de entre 60 y 96 años de edad. Cada sujeto fue escaneado en dos o más visitas separadas por al menos un año. Se cuenta con un total de 373 sesiones de imagen.
 
 ## Descripción y entrenamiento de los modelos
+Se entrenaron dos modelos de Light GBM, un modelo de regresión logística y un modelo de máquina de vectores de soporte. Todo esto con el propósito de comparar su desempeño.    
 ## Resultados
 ![image](https://user-images.githubusercontent.com/23626475/136715148-bff5bb2a-2298-4d28-8007-f49f67dddd0b.png)
+Matriz de confusión resultado de la SVM
 
 ## Páginas consultadas
 - Brosch, JR, et al. Early-onset dementia in adults. https://www.uptodate.com/contents/search. Accessed Dec. 4, 2019.
